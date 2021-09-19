@@ -1,7 +1,6 @@
 ---
 title: CH
 ---
-# Claudius Heyer
 [Fachbereich Mathematik und Informatik FB10](https://www.uni-muenster.de/FB10/)<br>
 Einsteinstraße 62<br>
 48149 Münster<br>
