@@ -20,6 +20,26 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: August 2021).
 
 ## Research
 
+I am interested in smooth mod p represenattions, pro-p Iwahori--Hecke algebras,
+triangulated categories. 
+
+* _The left adjoint of derived parabolic induction_<br>
+	In preparation.
+
+* _On the Smooth Part Functor_: [arxiv](https://arxiv.org/abs/2108.05262)<br>
+	Preprint.
+
+* _On the Decomposition of Hecke Polynomials over Parabolic Hecke Algebras_:
+	[arxiv](https://arxiv.org/abs/2108.04535)<br>
+	Preprint.
+
+* _Localization of the Parabolic Hecke Algebra at a Strictly Positive Element_:
+	[arxiv](https://arxiv.org/abs/2103.16949)
+
+* _Parabolic Induction via the Parabolic pro-p Iwahori--Hecke Algebra_:
+	[arxiv](https://arxiv.org/abs/2010.08435)<br>
+	Representation Theory (to appear)
+
 <hr>
 
 ## Teaching
