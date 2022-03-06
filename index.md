@@ -18,7 +18,7 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: January 2022).
 
 ## Research
 
-I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and also triangulated categories. 
+I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories. 
 
 * _The Left Adjoint of Derived Parabolic Induction_<br>
 	In preparation.
@@ -38,3 +38,5 @@ I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebr
 <hr>
 
 ## Teaching
+* Winter Term 21/22: _Reflection Groups and Platonic Solids_ (Teaching
+	Assistant)
