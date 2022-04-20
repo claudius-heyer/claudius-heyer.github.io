@@ -21,7 +21,7 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: January 2022).
 I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories. 
 
 * _The Left Adjoint of Derived Parabolic Induction_<br>
-	In preparation.
+	[draft](/../Research/Artikel/2021_Left_Adjoint/left_adjoint.pdf)
 
 * _On the Smooth Part Functor_: [arxiv](https://arxiv.org/abs/2108.05262)<br>
 	Preprint (2021).
