@@ -20,13 +20,13 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: April 2022).
 
 I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories. 
 
-* _The Left Adjoint of Derived Parabolic Induction_: [draft](/files/left_adjoint.pdf) <br>
+* _The Left Adjoint of Derived Parabolic Induction_: [draft](/files/left_adjoint.pdf) (2022, submitted) <br>
 
 * _On the Smooth Part Functor_: [arxiv](https://arxiv.org/abs/2108.05262)<br>
 	Preprint (2021).
 
 * _On the Decomposition of Hecke Polynomials over Parabolic Hecke Algebras_: [arxiv](https://arxiv.org/abs/2108.04535)<br>
-	Preprint (2021, submitted).
+	Preprint (2021, accepted at Journal de Théorie des Nombres de Bordeaux).
 
 * _Localization of the Parabolic Hecke Algebra at a Strictly Positive Element_: [arxiv](https://arxiv.org/abs/2103.16949)<br>
 	Preprint (2021).
