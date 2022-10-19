@@ -6,7 +6,7 @@ layout: default
 Einsteinstraße 62<br>
 48149 Münster<br>
 Germany<br>
-Email: x@y where x=cheyer and y=uni-muenster.de
+Email: x@y where x=cheyer and y=uni-muenster.de<br>
 Office: SRZ 322, Orléans-Ring 12
 
 Currently I am a post-doc in the working group of [Peter
