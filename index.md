@@ -30,7 +30,7 @@ I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebr
 	Preprint (2021).
 
 * _On the Decomposition of Hecke Polynomials over Parabolic Hecke Algebras_: [arxiv](https://arxiv.org/abs/2108.04535)<br>
-	Preprint (2021, accepted at Journal de Théorie des Nombres de Bordeaux).
+	Journal de Théorie des Nombres de Bordeaux (2022, [journal](https://jtnb.centre-mersenne.org/articles/10.5802/jtnb.1235/)).
 
 * _Localization of the Parabolic Hecke Algebra at a Strictly Positive Element_: [arxiv](https://arxiv.org/abs/2103.16949)<br>
 	Preprint (2021).
