@@ -21,6 +21,9 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: April 2022).
 
 I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories. 
 
+* _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:
+	[Preprint (2023)](/files/geometrical.pdf)<br>
+
 * _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581) (2022, submitted) <br>
 
 * _On the Smooth Part Functor_: [arxiv](https://arxiv.org/abs/2108.05262)<br>
