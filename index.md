@@ -7,22 +7,23 @@ Einsteinstraße 62<br>
 48149 Münster<br>
 Germany<br>
 Email: x@y where x=cheyer and y=uni-muenster.de<br>
+ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
 Office: SRZ 322, Orléans-Ring 12
 
 Currently I am a post-doc in the working group of [Peter
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html). I completed my PhD at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
-Here is my [CV](/files/cv_heyer.pdf) (Updated: April 2022).
+Here is my [CV](/files/cv_heyer.pdf) (Updated: April 2023).
 
 <hr>
 
 ## Research
 
-I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories. 
+I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, and triangulated categories.
 
 * _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:
-	[Preprint (2023)](/files/geometrical.pdf)<br>
+	[arxiv](https://arxiv.org/abs/2303.14721) (Preprint, 2023)<br>
 
 * _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581) (2022, submitted) <br>
 
@@ -48,6 +49,7 @@ I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebr
 <hr>
 
 ## Teaching
+* Summer Term 23: _Smooth Representations of p-Adic Groups_ (Lecturer)
 * Summer Term 22: _Introduction to Algebra_ (Teaching Assistant)
 * Winter Term 21/22: _Reflection Groups and Platonic Solids_ (Teaching
 	Assistant)
