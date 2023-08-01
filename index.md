@@ -45,6 +45,7 @@ I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebr
 
 * Notes on [Discrete Adic Spaces](/files/discrete_adic_spaces.pdf) for a
 	Seminar talk on Condensed Mathematics.
+* Script for the lecture course [Smooth Representations of p-Adic Groups](/files/smooth.pdf).
 
 <hr>
 
