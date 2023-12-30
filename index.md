@@ -25,7 +25,8 @@ I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebr
 * _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:
 	[arxiv](https://arxiv.org/abs/2303.14721) (submitted, 2023)<br>
 
-* _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581) (2022, accepted for publication at _Mathematische Zeitschrift_) <br>
+* _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581)<br>
+	Mathematische Zeitschrift (2023, [journal](https://link.springer.com/article/10.1007/s00209-023-03385-5)).
 
 * _On the Smooth Part Functor_: [arxiv](https://arxiv.org/abs/2108.05262)<br>
 	Preprint (2021).
