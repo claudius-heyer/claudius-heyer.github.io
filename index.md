@@ -10,7 +10,7 @@ Email: x@y where x=claudius.heyer and y=gmx.de<br>
 ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
 Office: D1 225
 
-Currently, I am a postdoc in the working group of [Igor Burban](https://math.uni-paderborn.de/ag/arbeitsgruppe-algebra). 
+Currently, I am a post-doc in the working group of [Igor Burban](https://math.uni-paderborn.de/ag/arbeitsgruppe-algebra). 
 Before that I was a post-doc in the working group of [Peter
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html). I completed my PhD at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
