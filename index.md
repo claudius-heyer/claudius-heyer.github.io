@@ -2,25 +2,26 @@
 title: Home
 layout: default
 ---
-[Fachbereich Mathematik und Informatik FB10](https://www.uni-muenster.de/FB10/)<br>
-Einsteinstraße 62<br>
-48149 Münster<br>
+[Institut für Mathematik](https://math.uni-paderborn.de/ueber-das-institut)<br>
+Warburger Straße 100<br>
+33098 Paderborn<br>
 Germany<br>
-Email: x@y where x=cheyer and y=uni-muenster.de<br>
+Email: x@y where x=claudius.heyer and y=gmx.de<br>
 ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
-Office: SRZ 322, Orléans-Ring 12
+Office: D1 225
 
-Currently I am a post-doc in the working group of [Peter
+Currently, I am a postdoc in the working group of [Igor Burban](https://math.uni-paderborn.de/ag/arbeitsgruppe-algebra). 
+Before that I was a post-doc in the working group of [Peter
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html). I completed my PhD at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
-Here is my [CV](/files/cv_heyer.pdf) (Updated: September 2023).
+Here is my [CV](/files/cv_heyer.pdf) (Updated: July 2024).
 
 <hr>
 
 ## Research
 
-I am interested in smooth mod p representations, the pro-p Iwahori--Hecke algebra, derived categories.
+I am interested in smooth mod p representations of p-adic Lie groups, the pro-p Iwahori--Hecke algebra, derived categories.
 
 * _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:
 	[arxiv](https://arxiv.org/abs/2303.14721) (submitted, 2023)<br>
