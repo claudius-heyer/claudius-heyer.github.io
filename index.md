@@ -6,13 +6,13 @@ layout: default
 Warburger Straße 100<br>
 33098 Paderborn<br>
 Germany<br>
-Email: x@y where x=claudius.heyer and y=gmx.de<br>
+Email: x@y where x=heyer and y=math.upb.de<br>
 ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
 Office: D1 225
 
-Currently, I am a post-doc in the working group of [Igor Burban](https://math.uni-paderborn.de/ag/arbeitsgruppe-algebra). 
-Before that I was a post-doc in the working group of [Peter
-Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html). I completed my PhD at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
+Currently, I am a post-doc at the [University of Paderborn](https://www.uni-paderborn.de/) in the working group of [Igor Burban](https://math.uni-paderborn.de/ag/arbeitsgruppe-algebra). 
+Before that I was a post-doc at the [University of Münster](https://www.uni-muenster.de/de/) in the working group of [Peter
+Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html) and later [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD in 2019 at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
 Here is my [CV](/files/cv_heyer.pdf) (Updated: July 2024).
