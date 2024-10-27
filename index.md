@@ -4,7 +4,7 @@ layout: default
 ---
 [Institut für Mathematik](https://math.uni-paderborn.de/ueber-das-institut)<br>
 Warburger Straße 100<br>
-33098 Paderborn<br>
+33100 Paderborn<br>
 Germany<br>
 Email: x@y where x=heyer and y=math.upb.de<br>
 ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
@@ -15,16 +15,19 @@ Before that I was a post-doc at the [University of Münster](https://www.uni-mue
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html) and later [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD in 2019 at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
-Here is my [CV](/files/cv_heyer.pdf) (Updated: July 2024).
+Here is my [CV](/files/cv_heyer.pdf) (Updated: October 2024).
 
 <hr>
 
 ## Research
 
-I am interested in smooth mod p representations of p-adic Lie groups, the pro-p Iwahori--Hecke algebra, derived categories.
+My research interests center around the theory of smooth mod p representations of p-adic Lie groups. During my PhD thesis I mostly studied the pro-p Iwahori--Hecke algebra. During my postdoc my interests have shifted towards understanding the derived category of smooth mod p representations via (higher) category theory.
 
-* _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:
-	[arxiv](https://arxiv.org/abs/2303.14721) (submitted, 2023)<br>
+* _6-Functor Formalisms and Smooth Representations_:[arxiv](https://arxiv.org/abs/2410.13038)<br> 
+	joint with Lucas Mann, Preprint (2024)
+
+* _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:[arxiv](https://arxiv.org/abs/2303.14721)<br> 
+	(submitted, 2023)
 
 * _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581)<br>
 	Mathematische Zeitschrift (2023, [journal](https://link.springer.com/article/10.1007/s00209-023-03385-5)).
@@ -52,7 +55,7 @@ I am interested in smooth mod p representations of p-adic Lie groups, the pro-p 
 <hr>
 
 ## Teaching
+* Winter Term 24/25: _Triangulated and Derived Categories_ (Lecturer)
 * Summer Term 23: _Smooth Representations of p-Adic Groups_ (Lecturer)
 * Summer Term 22: _Introduction to Algebra_ (Teaching Assistant)
-* Winter Term 21/22: _Reflection Groups and Platonic Solids_ (Teaching
-	Assistant)
+* Winter Term 21/22: _Reflection Groups and Platonic Solids_ (Teaching Assistant)
