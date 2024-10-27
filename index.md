@@ -23,10 +23,10 @@ Here is my [CV](/files/cv_heyer.pdf) (Updated: October 2024).
 
 My research interests center around the theory of smooth mod p representations of p-adic Lie groups. During my PhD thesis I mostly studied the pro-p Iwahori--Hecke algebra. During my postdoc my interests have shifted towards understanding the derived category of smooth mod p representations via (higher) category theory.
 
-* _6-Functor Formalisms and Smooth Representations_:[arxiv](https://arxiv.org/abs/2410.13038)<br> 
+* _6-Functor Formalisms and Smooth Representations_: [arxiv](https://arxiv.org/abs/2410.13038)<br> 
 	joint with Lucas Mann, Preprint (2024)
 
-* _The Geometrical Lemma for Smooth Representations in Natural Characteristic_:[arxiv](https://arxiv.org/abs/2303.14721)<br> 
+* _The Geometrical Lemma for Smooth Representations in Natural Characteristic_: [arxiv](https://arxiv.org/abs/2303.14721)<br> 
 	(submitted, 2023)
 
 * _The Left Adjoint of Derived Parabolic Induction_: [arxiv](https://arxiv.org/abs/2204.11581)<br>
