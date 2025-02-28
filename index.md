@@ -50,7 +50,8 @@ My research interests center around the theory of smooth mod p representations o
 
 * Notes on [Discrete Adic Spaces](/files/discrete_adic_spaces.pdf) for a
 	Seminar talk on Condensed Mathematics.
-* Script for the lecture course [Smooth Representations of p-Adic Groups](/files/smooth.pdf).
+* Script for the lecture course [Smooth Representations of p-Adic Groups](/files/smooth.pdf) held in the Summer Term 2023 at the University of Münster.
+* Script for the lecture course [Triangulated and Derived Categories](/files/Script_Triangulated_Categories.pdf) held in the Winter Term 2024/25 at the University of Paderborn.
 
 <hr>
 
