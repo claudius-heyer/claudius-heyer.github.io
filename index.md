@@ -4,7 +4,7 @@ layout: default
 ---
 [Institut für Mathematik](https://math.uni-paderborn.de/ueber-das-institut)<br>
 Warburger Straße 100<br>
-33100 Paderborn<br>
+33098 Paderborn<br>
 Germany<br>
 Email: x@y where x=heyer and y=math.upb.de<br>
 ORCiD: [0000-0001-6794-7870](https://orcid.org/0000-0001-6794-7870)<br>
