@@ -15,13 +15,16 @@ Before that I was a post-doc at the [University of Münster](https://www.uni-mue
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html) and later [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD in 2019 at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
-Here is my [CV](/files/cv_heyer.pdf) (Updated: October 2024).
+Here is my [CV](/files/cv_heyer.pdf) (Updated: August 2025).
 
 <hr>
 
 ## Research
 
 My research interests center around the theory of smooth mod p representations of p-adic Lie groups. During my PhD thesis I mostly studied the pro-p Iwahori--Hecke algebra. During my postdoc my interests have shifted towards understanding the derived category of smooth mod p representations via (higher) category theory.
+
+* _Second Adjointness_: Appendix to: M. Hoff, S. D. Meier, M. Spieß, _On the Right Derived Functors of Ordinary Parts_: [arxiv](https://arxiv.org/abs/2508.14598v1)<br>
+	joint with Manuel Hoff, Sarah Meier and Michael Spieß, Preprint (2025)
 
 * _6-Functor Formalisms and Smooth Representations_: [arxiv](https://arxiv.org/abs/2410.13038)<br> 
 	joint with Lucas Mann, Preprint (2024)
