@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
+![image](files/Claudius_web.jpg){: style="float: right"}
 [Institut für Mathematik](https://math.uni-paderborn.de/ueber-das-institut)<br>
 Warburger Straße 100<br>
 33098 Paderborn<br>
