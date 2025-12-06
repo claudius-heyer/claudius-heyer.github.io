@@ -60,6 +60,8 @@ My research interests center around the theory of smooth mod p representations o
 <hr>
 
 ## Teaching
+* Winter Term 25/56: _Linear Algebra for Computer Scientists_ (Lecturer)
+* Summer Term 25: _Seminar: Introduction to the Theory of Quiver Representations_ (Lecturer)
 * Winter Term 24/25: _Triangulated and Derived Categories_ (Lecturer)
 * Summer Term 23: _Smooth Representations of p-Adic Groups_ (Lecturer)
 * Summer Term 22: _Introduction to Algebra_ (Teaching Assistant)
