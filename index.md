@@ -16,7 +16,7 @@ Before that I was a post-doc at the [University of Münster](https://www.uni-mue
 Schneider](https://www.uni-muenster.de/Arithm/schneider/index.html) and later [Eugen Hellmann](https://www.uni-muenster.de/Arithm/hellmann/index.html). I completed my PhD in 2019 at the [Humboldt University in Berlin](https://www.mathematik.hu-berlin.de/en/front-page-en) under the supervision of [Elmar
 Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne).
 
-Here is my [CV](/files/cv_heyer.pdf) (Updated: August 2025).
+Here is my [CV](/files/cv_heyer.pdf) (Updated: September 2026).
 
 <hr>
 
@@ -60,6 +60,7 @@ My research interests center around the theory of smooth mod p representations o
 <hr>
 
 ## Teaching
+* Summer Term 26: _Analysis for Computer Scientists_ (Teaching Assistant)
 * Winter Term 25/56: _Linear Algebra for Computer Scientists_ (Lecturer)
 * Summer Term 25: _Seminar: Introduction to the Theory of Quiver Representations_ (Lecturer)
 * Winter Term 24/25: _Triangulated and Derived Categories_ (Lecturer)
